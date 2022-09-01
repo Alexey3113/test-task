@@ -1,6 +1,6 @@
 {
-  "name": "test-app",
-  "homepage": "https://Alexey3113.github.io/test-task",
+  "name": "test-task",
+  "homepage": "https://Alexey3113.github.io/test-task/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
