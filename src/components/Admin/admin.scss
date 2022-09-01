@@ -1,0 +1,24 @@
+.m20 {
+    margin: 0px 20px 0 0;
+}
+
+.df {
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.btn {
+    margin: 0 auto;
+    width: 200px;
+    padding: 15px;
+    background: rgb(63, 187, 63);
+    cursor: pointer;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+
+    &.filter {
+        margin: 0;
+    }
+}
